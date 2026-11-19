@@ -37,7 +37,8 @@ The objective is to build an interactive dashboard that helps understand busines
 - Payment Method Distribution
 
 ### Dashboard Preview
-![Amazon Sales Dashboard](Screenshots/Dashboard.png)
+<img width="1248" height="540" alt="image" src="https://github.com/user-attachments/assets/a5f4131c-5a9e-4cc2-8e29-839e7e44a427" />
+
 
 ## Interactive Filters
 - Category
