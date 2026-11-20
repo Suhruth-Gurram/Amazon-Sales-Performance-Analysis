@@ -50,9 +50,8 @@ The objective is to build an interactive dashboard that helps understand busines
 ```text
 Amazon-Sales-Performance-Analysis/
 │
-├── Amazon_Sales_Analysis.xlsx
-├── Screenshots/
-│   └── Dashboard.png
+├── Raw_Amazon_Sales_Analysis.xlsx
+├── Amazon_sales_Analysis(Cleaned).xlsx
 └── README.md
 ```
 
