@@ -51,8 +51,6 @@ The objective is to build an interactive dashboard that helps understand busines
 Amazon-Sales-Performance-Analysis/
 │
 ├── Amazon_Sales_Analysis.xlsx
-├── Documentation/
-│   └── Project_Documentation.pdf
 ├── Screenshots/
 │   └── Dashboard.png
 └── README.md
